@@ -15,6 +15,7 @@ const TypewriterEffect = () => {
   const [isTalk, setIsTalk] = useState(false);
 
 
+
   useEffect(() => {
     let currentIndex = 0;
 
